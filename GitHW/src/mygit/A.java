@@ -4,5 +4,6 @@ public class A {
     public void printA() {
         System.out.println("A: initial version");
         System.out.println("A: alice 수정");
+        System.out.println("A: 밥 수정");
     }
 }
